@@ -15,3 +15,8 @@ main ()
   printf ("The area of triangle is %f", 0.5 * b * h);
   return 0;
 }
+
+
+
+/* NAME - SUNIL KUMAR
+   SECTION - F(51) */
