@@ -10,3 +10,8 @@ main ()
   printf ("Area of square is %f", b);
   return 0;
 }
+
+
+
+/* NAME - SUNIL KUMAR
+SECTION - F(51) */
