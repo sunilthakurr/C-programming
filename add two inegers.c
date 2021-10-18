@@ -1,3 +1,5 @@
+// Program to find the sum of two integers.
+
 #include<stdio.h>
 int main()
 {
@@ -9,3 +11,8 @@ int main()
     printf("The sum of %d and %d is %d",a,b,a+b);
     return 0;
 }
+
+
+
+/*NAME - SUNIL KUMAR
+SECTION - F(51) */
