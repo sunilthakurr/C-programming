@@ -1,3 +1,6 @@
+//program to find greatest of three numbers using ternary operator.
+
+
 #include<stdio.h>
 int main()
 {
