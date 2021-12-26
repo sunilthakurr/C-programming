@@ -1,3 +1,4 @@
+/*WAP to input an array of N numbers of elements and sort it in ascending order using bubble sort*/
 #include<stdio.h>
 int
 main ()
