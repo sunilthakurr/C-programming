@@ -1,4 +1,4 @@
-/*WAP to input an array of N numbers of elements and sort it in descending order using bubble sort*/
+/*WAP to input an array of N numbers of elements and sort it in descending order using bubble sort */
 
 
 #include<stdio.h>
